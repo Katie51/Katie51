@@ -1,6 +1,7 @@
 
 ## Hi there 👋 I'm Kate!
-
+<h3 class=“heading-element” dir=“auto”>:female-technologist: QA Engineer | JavaScript Enthusiast | Automation Tester</h3>
+<p dir=“auto”>I'm a Software Quality Engineer with a passion for building smooth, bug-free experiences. With 5+ years in manual and automation testing, I’ve worked across web and mobile platforms, making sure everything runs like a well-oiled machine.</p>
 <!--
 **Katie51/Katie51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
