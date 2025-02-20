@@ -8,7 +8,6 @@
 <li><strong>CI/CD & GitHub Actions</strong> – Automating test execution like a pro.</li>
 <li><strong>Cypress, JavaScript, Postman, SQL</strong> – My go-to tech stack for keeping quality in check.</li>
 <li> I love solving problems, improving testing processes, and collaborating with developers to ship high-quality products faster. If you're into QA, or tech, or just want to chat about testing strategies, let’s connect!</li>
-<li> <strong>Reach me:</strong> <a href=“mailto:ka.serafymova@gmail.com”>ka.serafymova@gmail.com</a></li>
 </ul>
 <!--
 **Katie51/Katie51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
