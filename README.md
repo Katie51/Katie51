@@ -7,7 +7,7 @@
 <li>API Testing & Data Validation – Making sure everything behind the scenes works as expected.</li>
 <li>CI/CD & GitHub Actions – Automating test execution like a pro.</li>
 <li>Cypress, JavaScript, Postman, SQL – My go-to tech stack for keeping quality in check.</li>
-<li>: I love solving problems, improving testing processes, and collaborating with developers to ship high-quality products faster. If you're into QA, or tech, or just want to chat about testing strategies, let’s connect!</li>
+<li> I love solving problems, improving testing processes, and collaborating with developers to ship high-quality products faster. If you're into QA, or tech, or just want to chat about testing strategies, let’s connect!</li>
 <li>:mailbox: Reach me: <a href=“mailto:ka.serafymova@gmail.com”>ka.serafymova@gmail.com</a></li>
 </ul>
 <!--
