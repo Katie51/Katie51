@@ -1,5 +1,5 @@
 
-## Hello there 👋
+## Hi there 👋 I'm Kate!
 
 <!--
 **Katie51/Katie51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
